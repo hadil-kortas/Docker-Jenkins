@@ -3,7 +3,8 @@ This TP aims to guide you through the process of creating, containerizing, and d
 ## Step 1: Configure the GitLab Project
 1. Create a project on GitLab (or GitHub) titled "express-sqlite."
 2. Clone the project to your local machine.
-3. Optionally, configure a GitFlow workflow for the project using your preferred tool.
+3. Configure a GitFlow workflow for the project using your preferred tool.
+   
 ## Step 2: Create Express.js Application with SQLite
 ## Step 3: Create Docker Image
 ## Step 4: Docker Compose
