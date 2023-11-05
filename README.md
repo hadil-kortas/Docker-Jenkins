@@ -10,6 +10,7 @@ This TP aims to guide you through the process of creating, containerizing, and d
 2. Initialize a Node.js project: `npm init`
 3. Install dependencies (Express.js and SQLite): `npm install express sqlite3`
 4. Create `app.js` and add the provided Express.js application code. Test it with Postman.
+
 ![postman](https://github.com/hadil-kortas/express-sqlite/assets/97675597/d71b616e-a082-4abb-a8a9-032a9f5817e7)
 
 ## Step 3: Create Docker Image
