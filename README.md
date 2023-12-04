@@ -1,4 +1,4 @@
-# Docker-Jenkins
+# Docker-Jenkins-Kubernetes
 This TP aims to guide you through the process of creating, containerizing, and deploying an Express.js application with SQLite using Docker and Docker Compose. Additionally, you will learn to automate the CI/CD pipeline using Jenkins to build the Docker image.
 ## Step 1: Configure the GitLab Project
 1. Create a project on GitLab (or GitHub) titled "express-sqlite."
