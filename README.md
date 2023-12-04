@@ -31,3 +31,8 @@ This TP aims to guide you through the process of creating, containerizing, and d
 4. Monitor the pipeline execution on the Jenkins dashboard.
    
 ![pipeline](https://github.com/hadil-kortas/express-sqlite/assets/97675597/8cc7a4e6-39b4-44d3-80c2-08ef05c1d39a)
+
+![cap14](https://github.com/hadil-kortas/Docker-Jenkins/assets/97675597/736ebf0c-1571-4495-9a50-fbb420eb51b5)
+![cap13](https://github.com/hadil-kortas/Docker-Jenkins/assets/97675597/777c1e8a-ac1f-4f5e-b01a-452472174a7e)
+![cap12](https://github.com/hadil-kortas/Docker-Jenkins/assets/97675597/60ae7f8b-89bb-4415-bdca-ad3c52fa28a7)
+
